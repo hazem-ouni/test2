@@ -10,4 +10,4 @@ jobs:
       - name: Build API
         run: |
           echo "Build API"
-          slep 10s
+          sleep 10s
